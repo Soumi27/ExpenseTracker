@@ -28,7 +28,7 @@ It lets users:<p>
     <li>csv module (for file handling)</li>
     <li>datetime module (for adding date automatically)</li>
 </ol><hr>
-<h2>📂 Project Structure<h2>
+<h2>📂 Project Structure</h2>
 <ul>
     <li>main.py   # Main Python script</li>
     <li>expenses.csv         # Data file (created automatically after first entry)</li>
