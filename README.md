@@ -1,5 +1,5 @@
 # ExpenseTracker
-Creating a basic expense tracker from scratch. <b>Expense Tracker</b> – A Python mini project for learning file handling & data management.
+<b>Expense Tracker</b> – A Python mini project for learning file handling & data management.
 <br>
 Author - Soumya Mishra<hr>
 <h1>📊 Python Expense Tracker<h1>
@@ -16,7 +16,6 @@ It lets users:<p>
 <h3>This project is terminal-based and uses Python’s built-in csv and datetime modules.<h3><hr>
 
 <h2>🚀 Features</h2>
-<br>
 ✅ Add new expenses<br>
 ✅ View all recorded expenses<br>
 ✅ Get summary grouped by category<br>
@@ -28,13 +27,13 @@ It lets users:<p>
     <li>Python 3</li>
     <li>csv module (for file handling)</li>
     <li>datetime module (for adding date automatically)</li>
-</ol><hr><br>
+</ol><hr>
 <h2>📂 Project Structure<h2>
 <ul>
     <li>main.py   # Main Python script</li>
     <li>expenses.csv         # Data file (created automatically after first entry)</li>
     <li>README.md            # Project documentation</li>
-</ul><hr><br>
+</ul><hr>
 <h2>▶️ How to Run the Project</h2>
 <ol>
     <li>Make sure you have Python 3 installed.</li>
