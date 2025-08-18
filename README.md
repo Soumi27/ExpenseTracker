@@ -1,5 +1,5 @@
 # ExpenseTracker
-Creating a basic expense tracker from scratch. 
+Creating a basic expense tracker from scratch. <b>Expense Tracker</b> – A Python mini project for learning file handling & data management.
 <br>
 Author - Soumya Mishra<hr>
 <h1>📊 Python Expense Tracker<h1>
@@ -53,3 +53,16 @@ It lets users:<p>
 
     <li>Use the menu options to add, view, and summarize expenses.</li>
 </ol><hr>
+
+<h2>📌 Future Improvements</h2>
+<ul>
+    <li>🔹 Add GUI using Tkinter</li>
+    <li>🔹 Add monthly/yearly reports</li>
+    <li>🔹 Export summary to PDF/Excel</li>
+    <li>🔹 Add login system for multiple users</li>
+</ul>
+<hr>
+
+<h2>👩‍💻 Author</h2>
+<p><b>Soumya Mishra (BCA Student)</b><br>
+Expense Tracker – A Python mini project for learning file handling & data management.</p>
