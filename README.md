@@ -3,7 +3,7 @@
 <br>
 Author - Soumya Mishra<hr>
 <h1>📊 Python Expense Tracker<h1>
-<h2>📌 Project Overview<h2>
+<h2>📌 Project Overview</h2>
 
 <p>The Expense Tracker is a simple Python project that allows users to manage their daily expenses.
 It lets users:<p>
